@@ -1,0 +1,36 @@
+
+body{
+    padding-top: 80px;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+
+.nv-cls{
+    background-color: #2e2f31;
+}
+.forms{
+    width: 100%;
+  background-color: #000405;
+  color: white;
+  padding: 14px 20px;
+  margin: 82px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: grab;
+}
+.baslik{
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	color: rgb(253, 253, 253);
+    background-color: #2e2f31;
+}
+.buton{
+	font-family: Arial, sans-serif;
+	color: rgb(253, 253, 253);
+    
+    
+}
+.background{
+    background-color: #2e2f31;
+}
